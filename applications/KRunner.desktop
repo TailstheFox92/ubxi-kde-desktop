@@ -1,0 +1,17 @@
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Exec=krunner
+GenericName[en_US]=
+GenericName=
+Icon=uniLauncher
+MimeType=
+Name[en_US]=KRunner
+Name=KRunner
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
